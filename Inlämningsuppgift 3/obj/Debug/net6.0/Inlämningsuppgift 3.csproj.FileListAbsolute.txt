@@ -1,0 +1,4 @@
+C:\Users\mmazl\source\repos\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\net6.0\Inlämningsuppgift 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmazl\source\repos\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\net6.0\Inlämningsuppgift 3.AssemblyInfoInputs.cache
+C:\Users\mmazl\source\repos\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\net6.0\Inlämningsuppgift 3.AssemblyInfo.cs
+C:\Users\mmazl\source\repos\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\net6.0\Inlämningsuppgift 3.csproj.CoreCompileInputs.cache
